@@ -1,14 +1,12 @@
 # Repositorio de trabajo del módulo de Periodismo de Datos 2
 
-## Actividad dirigida 1
-
 Esta actividad consiste en comentar una pieza de periodismo de datos, visualización de datos o infografía, con respecto a lo que hemos visto en el **Máster de Periodismo Digital y de Datos** de la **Universidad Nebrija**.
 
-### Pieza de periodismo de datos del diario El Mundo
+## Pieza de periodismo de datos del diario El Mundo
 
 En este [enlace](https://www.elmundo.es/ciencia-y-salud/medio-ambiente/2021/12/30/61bcd569fc6c83a2308b459a.html) se ve la primera de tres entregas de periodismo de datos sobre ***Fauna amenazada por la extinción***, de la periodista **Belén García-Pozuelo**.
 
-#### ¿Qué cosas me han impresionado de esta pieza?
+### ¿Qué cosas me han impresionado de esta pieza?
 
 1. Ofrece una radiografía de cómo opera el mercado negro de animales protegidos que sobrevive a la pandemia.
 2. Su metodología, porque mezcla datos con visualización.
