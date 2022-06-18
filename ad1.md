@@ -1,4 +1,4 @@
-# Repositorio de trabajo del módulo de Periodismo de Datos 2
+# Actividad Dirigida 1
 
 Esta actividad consiste en comentar una pieza de periodismo de datos, visualización de datos o infografía, con respecto a lo que hemos visto en el **Máster de Periodismo Digital y de Datos** de la **Universidad Nebrija**.
 
