@@ -4,10 +4,12 @@ En esta actividad dirigida 2 convertimos nuestro repositorio en una web servida 
 
 ## Pasos realizados
 
+### Primera parte
 - Antes de iniciar esta parte cree esta ad2.md directamente en añadir archivo en Github.
 - El siguiente paso que hice fue activar la configuración de mi repositorio en la opción ***"Pages"*** con la siguiente URL que cambié usando mi repositorio de Nebrija <https://github.com/nebrijas/Alejorego-web/settings/pages>.
 - En branch elegí **Main** y en folder **root**.
 - Al activar esa opción obtuve una web con un archivo index.html cuyo contenido es el del **README** <https://nebrijas.github.io/Alejorego-web/>.
+### Segunda parte
 - Realizada esta tarea pasé a la segunda parte para usar **git bash**.
 - En git bash escribí **pwd** y le dí enter. Seguidamente escribí **git clone** <https://github.com/nebrijas/Alejorego-web> para modificar el repositorio y clonar la carpeta.
 - Escribí Alejorego-web/, enter, para cambiar por el de mi fichero.
