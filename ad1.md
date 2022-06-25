@@ -18,7 +18,7 @@ En este [enlace](https://www.elmundo.es/ciencia-y-salud/medio-ambiente/2021/12/3
 8. **Dato curioso**: la serie de tres entregas fue presentada como **trabajo final** del *Máster de Periodismo de Investigación, Datos y Visualización de El Mundo”*.
 
 ![Objetos de animales en extinción](https://phantom-elmundo.unidadeditorial.es/c7607e583593fa4b6e8ee25dedf5f99d/resize/473/f/webp/assets/multimedia/imagenes/2021/12/29/16408144710211.jpg)
-#### Actividades dirigidas
 
-- [Actividad dirigida 1](ad1.md)
-- [Actividad dirigida 2](ad2.md)
+
+
+
