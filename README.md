@@ -21,4 +21,4 @@ Estas son las actividades del módulo de Periodismo de Datos II: Herramientas di
 - La `actividad 4` fue muy provechosa, porque pudimos trabajar con una **API** y con **Pandas**.
 - Lo mejor de esa actividad fue visualizar tablas y gráficas de **Panamá**, **España** y países de **Centroamérica**, para conocer los casos de COVID-19 y hacer comparaciones.
 - En esta parte apliqué algo similar a lo que trabajé con el grupo de TFM a la hora de cargar códigos e imágenes a GitHub, pues descargue los códigos de la actividad trabajada en **Jupyter** para crearlas como `.md`. En este caso, con la número cuatro tuve que subir el código y las imágenes de las gráficas, que quedaron insertas en el README de mi repositorio en **GitHub**.
--Personalmente confieso que desconocía de esta sintaxis y de que era posible hacer visualizaciones de esta forma, sin duda alguna son experiencias que nos permitirán enfrentar proyectos futuros.
+- Personalmente confieso que desconocía de esta sintaxis y de que era posible hacer visualizaciones de esta forma, sin duda alguna son experiencias que nos permitirán enfrentar proyectos futuros.
