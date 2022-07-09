@@ -13,7 +13,7 @@ En esta actividad dirigida 2 convertimos nuestro repositorio en una web servida 
 
 ### Segunda parte
 
-- Realizada esta tarea pasé a la segunda parte para usar **git bash**.
+- Realizada esta tarea pasé a la segunda parte para usar **Git Bash**.
 - En git bash escribí **pwd** y le dí enter. Seguidamente escribí **git clone** <https://github.com/nebrijas/Alejorego-web> para modificar el repositorio y clonar la carpeta.
 - Escribí Alejorego-web/, enter, para cambiar por el de mi fichero.
 - El siguiente paso fue escribir **ls** para visualizar los archivos de la carpeta.
