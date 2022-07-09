@@ -4,7 +4,7 @@ Estas son las actividades del módulo de Periodismo de Datos II: Herramientas di
 
 - [Actividad dirigida 1](ad1.md)
 - [Actividad dirigida 2](ad2.md)
-- [Actividad dirigida 3](ad3.ipynb)
+- [Actividad dirigida 3](ad3.md)
 - [Actividad dirigida 4](ad4.ipynb)
 
 ## Lo que hemos hecho en este curso.
