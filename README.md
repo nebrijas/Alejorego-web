@@ -7,7 +7,7 @@ Estas son las actividades del módulo de Periodismo de Datos II: Herramientas di
 - [Actividad dirigida 3](ad3.md)
 - [Actividad dirigida 4](ad4.md)
 
-## Lo que hemos hecho en este curso
+## Lo que hemos hecho y aprendido en este curso
 - En primer lugar aprendimos a instalar los programas para trabajar en esta asignatura y construir esta web, como **GitHub**, **Anaconda**, **Jupyter**.
 - Una vez instalados procedimos a crear nuestro repositorio para ir colocando cada una de las actividades dirigidas, que nos permitieron practicar este tipo de visualización.
 - Antes de comenzar a conocer sobre la sintaxis ***Markdown*** y sus conceptos básicos para escribir usando un lenguaje marcado, creamos el README.md, que sería el repositorio para alojar nuestras actividades.
@@ -18,7 +18,7 @@ Estas son las actividades del módulo de Periodismo de Datos II: Herramientas di
 - El proceso en **Git Bash** no fue fácil, tuve que repetir varias veces los pasos para que se añadiera al repositorio en **GitHub**.
 - Con la `actividad dirigida 3` aprendimos a realizar web scraping usando un código trabajado en **Phyton** para una actividad de la asignatura de programación.
 - También instalamos librerias y trabajamos con códigos, creamos objetos o variables y otros pasos para obtener resultados.
-- La `actividdad 4` fue muy provechosa, porque pudimos trabajar con una **API** y con **Pandas**.
+- La `actividad 4` fue muy provechosa, porque pudimos trabajar con una **API** y con **Pandas**.
 - Lo mejor de esa actividad fue visualizar tablas y gráficas de **Panamá**, **España** y países de **Centroamérica**, para conocer los casos de COVID-19 y hacer comparaciones.
 - En esta parte apliqué algo similar a lo que trabajé con el grupo de TFM a la hora de pasar códigos a GitHub, pues descargue los códigos de las actividades trabajadas en **Jupyter** para crearlas como `.md`. En este caso, con la número cuatro tuve que subir el código y las imágenes de las gráficas, que quedaron insertas en el README de mi repositorio.
 -Personalmente confieso que desconocía de esta sintaxis y de que era posible hacer visualizaciones de esta forma, sin duda alguna son experiencias que nos permitirán enfrentar proyectos futuros.
